@@ -1,4 +1,3 @@
 gitsomo file is being completley changed
 
 this will be the first line the new commit
-osmethig
