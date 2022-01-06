@@ -1,6 +1,3 @@
-git file 
-new 
+gitsomo file is being completley changed
 
-osmethig
-
-this is the last line for this file
+this will be the first line the new commit
