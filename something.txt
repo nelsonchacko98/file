@@ -1,3 +1,0 @@
-Something file is being completley changed
-
-This will be the new commit
