@@ -2,3 +2,5 @@ git file
 new 
 
 osmethig
+
+this is the last line for this file
