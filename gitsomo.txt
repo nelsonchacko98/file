@@ -1,3 +1,7 @@
 gitsomo file is being completley changed
 
+<<<<<<< HEAD
 this will be the first line the new commit
+=======
+osmethig
+>>>>>>> parent of 562d072 (Addeda new last line)
