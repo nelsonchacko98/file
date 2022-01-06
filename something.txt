@@ -1,9 +1,3 @@
-spet
+Something file is being completley changed
 
-
-
-asdlkgkljk
-
-asdflkj
-
-the new line was deleted
+This will be the new commit
